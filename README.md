@@ -1,7 +1,7 @@
-# _Your project title_
+# _Rust Final Project_
 
-- _your name_
-- _your email (uoit.net)_
+- _Justin Lin Sin Cho_
+- _justin.linsincho@uoit.net_
 
 ## About the language
 
