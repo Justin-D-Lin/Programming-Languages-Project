@@ -32,9 +32,9 @@ fn main(){
 > _When a rust file is compiled with rustc, an executable file is produced_.
 > _Ordinarily however, project files will be created and run using cargo, the rust package manager_.
 
-> -cargo new hello-world
-> -cargo build
-> -cargo run
+> - cargo new hello-world
+> - cargo build
+> - cargo run
 
 ## About the standard library
 
