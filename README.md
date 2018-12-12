@@ -7,8 +7,10 @@
 
 > _Describe the language_
 >
-> - History
-> - Some interesting features
+> - Rust first appeared in 2010
+> - C/C++ offers more control while offering less safety, Python offers less control while offering more safety
+> - Rust offers more control AND more safety
+> - Rust closely resembles C/C++ in terms of code syntax
 
 ## About the syntax
 
@@ -16,15 +18,24 @@
 
 *Let form*
 
-```clojure
-(let [x 10
-      y 20]
-  (+ x y))
+```rust
+fn main(){
+	let let_x = 5;
+	let let_y = 9;
+
+	println!("The sum of x and y is {}", let_x + let_y);
+}
 ```
 
 ## About the tools
 
 > _Describe the compiler or interpreter needed_.
+> _To run rust, the compiler rustc is required._.
+> _When a rust file is compiled with rustc, an executable file is produced_.
+> _Ordinarily however, project files will be created and run using cargo_.
+> -cargo new hello-world
+> -cargo build
+> -cargo run
 
 ## About the standard library
 
