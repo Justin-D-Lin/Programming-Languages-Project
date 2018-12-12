@@ -1,0 +1,1 @@
+{"rustc":11604300878102939825,"features":"[]","target":17666962824055774003,"profile":12895520798355126128,"path":1036222786711178230,"deps":[["winit v0.18.0","winit",9243132273462033460]],"local":[{"MtimeBased":[[1544589076,462548300],".fingerprint\\gui-ca81b1399c71dca8\\dep-bin-gui-ca81b1399c71dca8"]}],"rustflags":[],"edition":"Edition2018"}

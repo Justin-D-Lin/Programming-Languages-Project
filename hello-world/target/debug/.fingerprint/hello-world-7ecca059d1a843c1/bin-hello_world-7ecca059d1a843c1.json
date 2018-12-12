@@ -1,1 +1,0 @@
-{"rustc":11604300878102939825,"features":"[]","target":12615234616278472089,"profile":16354842302207562016,"path":1036222786711178230,"deps":[["winit v0.18.0","winit",9243132273462033460]],"local":[{"MtimeBased":[[1544581052,561693700],".fingerprint\\hello-world-7ecca059d1a843c1\\dep-bin-hello_world-7ecca059d1a843c1"]}],"rustflags":[],"edition":"Edition2018"}
