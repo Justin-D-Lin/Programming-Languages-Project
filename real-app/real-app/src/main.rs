@@ -1,3 +1,6 @@
+//This rust file is a simple calculator that computes an operation between two variables. 
+//The selected operation and two float variables are taken from user input.
+
 #[macro_use]
 extern crate text_io;
 

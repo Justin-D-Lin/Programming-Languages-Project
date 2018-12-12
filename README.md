@@ -78,6 +78,22 @@ document_.
 
 > _Rust is a procedural language similar to C++ but does have some features found in functional programming. For example, all variables created in rust is by default immutable however they can be set to be mutable on creation. An entire subreddit has been created dedicated to rust and an interesting post found in regards to rust from the point of view of a clojure programmer can be found at https://www.reddit.com/r/rust/comments/868suv/rust_first_impression_from_clojure_developer/._
 
+> _Rust does support meta-programming such as macros. In Rust syntax, all macros will look like function calls with "!" following the name"._
+
+*Macro creation*
+
+```rust
+macro_rules! new_macro {
+	() => (
+		println!("I am not a useful macro!");
+	)
+}
+
+fn main(){
+	new_macro!();
+}
+```
+
 > _Rust uses lexical scoping and when compiling code and is a statically typed programming language. This can be verified by attempting to compile the below code. A compilation error will occur stating binary operation '+' cannot be applied to type '&str' proving that variable types are determined on compilation._
 
 ```rust
