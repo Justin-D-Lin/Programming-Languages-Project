@@ -103,5 +103,5 @@ fn main() {
 }
 ```
 
-> _Rust is appears to have many advantages over other types of code while not too many disadvantages. One advantage of rust over C++ is that rust is much safer when dealing with concurrency and multiple sources attemping to access a single source of data with the concept of ownership. One advantage rust has over languages such as Java is that it runs much faster than Java. A disadvantage of rust that I personally found is the lack of GUI support in comparison to Java where creating GUIs can be very simple with the use of Jframes._
+> _Rust appears to have many advantages over other types of code while not having many disadvantages. One advantage of rust over C++ is that rust is much safer when dealing with concurrency and multiple sources attemping to access a single source of data with the concept of ownership. One advantage rust has over languages such as Java is that it runs much faster than Java. A disadvantage of rust that I personally found is the lack of GUI support in comparison to Java where creating GUIs can be very simple with the use of Jframes._
 
